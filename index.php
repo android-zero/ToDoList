@@ -4,7 +4,7 @@
     // initialize errors variable
 	$errors = "";
 	// connect to database
-	$db = mysqli_connect("localhost", "umesh", "Umesh@123", "todo");
+	$db = mysqli_connect("localhost", "kiruthik", "Toor@1234", "todo");
 
 	// insert a quote if submit button is clicked
 	if (isset($_POST['submit'])) {
